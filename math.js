@@ -9,3 +9,11 @@ function minus(a, b) {
 function multi(a, b) {
     return a * b;
 }
+
+try {
+    module.exports = {
+        add,
+        minus,
+        multi
+    }
+}catch(e){}

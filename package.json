@@ -1,0 +1,23 @@
+{
+  "name": "st-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squirrelzt/st-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squirrelzt/st-test/issues"
+  },
+  "homepage": "https://github.com/squirrelzt/st-test#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
